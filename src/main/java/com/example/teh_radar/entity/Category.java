@@ -1,4 +1,4 @@
-package com.example.teh_radar.Entity;
+package com.example.teh_radar.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
